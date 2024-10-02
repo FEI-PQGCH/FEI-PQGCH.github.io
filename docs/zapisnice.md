@@ -15,3 +15,16 @@ Ciele:
 - porozumieť protokolu
 - navrhnúť diagram popisujúci protokol
 - čo najskôr implementovať prototyp aplikácie
+
+
+## 2. stretnutie
+
+### 1.10.2024 11:40-13:00
+
+Prítomní: prof. Ing. Pavol Zajac, PhD., Mgr. Tomáš Fabšič, PhD., Ing. Tomáš Vavro, Bc. Samuel Klement, Bc. Martin Vidlička, Bc. Matúš Petrovaj, Bc. Viktor Malý
+
+- Prebratie vektorov u, v (cu, cv) s budúcou diskusiou
+- Ujasnenie ďalších pojmov
+- Riešenie distribúcie - 1 centrálny server
+- Prostredie - Návrh na vytvorenie knižnice a prácu v high level language, inklinácia k pôvodnému riešeniu v jazyku C/C++
+- Oboznámenie so začiatkom dokumentácie - zatiaľ neverejnej
