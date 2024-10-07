@@ -1,1 +1,1 @@
-# Úvodná stránka
+# Welcome page

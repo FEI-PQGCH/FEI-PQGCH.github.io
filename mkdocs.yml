@@ -1,4 +1,30 @@
-site_name: Dokumentácia
+site_name: PQGCH Documentation
+nav:
+  - Home: index.md
+  - Docs how-to: doc-howto.md
+  - Zápisnice (SK): zapisnice.md
 site_url: https://fei-pqgch.github.io/
 theme:
   name: material
+  font: false
+  palette:
+    primary: black
+    accent: pink
+    scheme: slate
+
+extra:
+  generator: false
+
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+
+extra_javascript:
+  - javascripts/katex.js
+  - https://unpkg.com/katex@0/dist/katex.min.js
+  - https://unpkg.com/katex@0/dist/contrib/auto-render.min.js
+
+extra_css:
+  - https://unpkg.com/katex@0/dist/katex.min.css
+  - styles/katex.css
+
