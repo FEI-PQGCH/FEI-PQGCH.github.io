@@ -28,3 +28,14 @@ Prítomní: prof. Ing. Pavol Zajac, PhD., Mgr. Tomáš Fabšič, PhD., Ing. Tom�
 - Riešenie distribúcie - 1 centrálny server
 - Prostredie - Návrh na vytvorenie knižnice a prácu v high level language, inklinácia k pôvodnému riešeniu v jazyku C/C++
 - Oboznámenie so začiatkom dokumentácie - zatiaľ neverejnej
+
+
+## 3. stretnutie
+
+### 8.10.2024 11:40-13:00
+
+Prítomní: prof. Ing. Pavol Zajac, PhD., Mgr. Tomáš Fabšič, PhD., Ing. Tomáš Vavro, Ing. Tamara Tučková, Ing. Ondrej Gallo, PhD., Bc. Samuel Klement, Bc. Martin Vidlička, Bc. Zoltán Raffay, Bc. Matúš Petrovaj, Bc. Viktor Malý
+
+- Vysvetlenie problematiky vektorov u,v na ntor protokole
+- Zmena serverovej distribúcie na round token 
+- Po konzultácií zmena na implementáciu s vynechaním vektorov
