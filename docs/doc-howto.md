@@ -1,20 +1,20 @@
-# Ako používať dokumentáciu
+# How to use the docs
 
-1. Nainštalovať [MKDocs - Material](https://squidfunk.github.io/mkdocs-material/getting-started/)
+1. Install [MKDocs - Material](https://squidfunk.github.io/mkdocs-material/getting-started/)
 
-2. Stiahnuť repozitár so zdrojom stránok `git clone meno-repozitara`
+2. Clone the repository with page sources using `git clone repository-name`
 
-3. Vykonať úpravy v adresári `docs`
+3. Edit files in the `docs` directory
 
-4. Lokálne overiť úpravy príkazom `mkdocs serve`
+4. Check the modifications using `mkdocs serve`
 
-5. Vytvoriť build príkazom `mkdocs build` - vytvorí sa adresár `site` s vygenerovanými stránkami
+5. Create a build with `mkdocs build` - a directory called `site` will be created
 
-6. Commitnúť (`git add .` a `git commit -m "sprava"`) a nahrať zmeny na GitHub pomocou `git push -u origin main`
+6. Commit using `git add .` and `git commit -m "message"` and upload the changes to GitHub using `git push -u origin main`
 
-7. Nahrať build z adresára `site` do branch-e `gh-pages` príkazom `git subtree push --prefix site origin gh-pages` (z tejto branch-e sa stránka zobrazuje)
+7. Upload the build from the `site` directory to branch `gh-pages` using `git subtree push --prefix site origin gh-pages` (the page is served from this branch)
 
-## MKDocs príkazy
+## MKDocs commands
 
 - `mkdocs new [dir-name]` - Create a new project.
 - `mkdocs serve` - Start the live-reloading docs server.
