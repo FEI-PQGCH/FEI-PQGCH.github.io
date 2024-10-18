@@ -39,3 +39,16 @@ Prítomní: prof. Ing. Pavol Zajac, PhD., Mgr. Tomáš Fabšič, PhD., Ing. Tom�
 - Vysvetlenie problematiky vektorov u,v na ntor protokole
 - Zmena serverovej distribúcie na round token 
 - Po konzultácií zmena na implementáciu s vynechaním vektorov
+
+
+## 4. stretnutie
+
+### 15.10.2024 11:40-13:00
+
+Prítomní: prof. Ing. Pavol Zajac, PhD., Mgr. Tomáš Fabšič, PhD., Ing. Tomáš Vavro, Ing. Tamara Tučková, Bc. Samuel Klement, Bc. Martin Vidlička, Bc. Zoltán Raffay, Bc. Matúš Petrovaj
+
+- Dohodnutie na konzultacií obtýžden
+- Prototyp aplikácie do Novembra
+- Diagram a popis pre prototyp a následny projekt
+- Prototyp bez šifrovania
+- Riešenie problemu vypadnutia clusteru - timeout/refresh
