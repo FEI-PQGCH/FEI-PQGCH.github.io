@@ -52,3 +52,13 @@ Prítomní: prof. Ing. Pavol Zajac, PhD., Mgr. Tomáš Fabšič, PhD., Ing. Tom�
 - Diagram a popis pre prototyp a následny projekt
 - Prototyp bez šifrovania
 - Riešenie problemu vypadnutia clusteru - timeout/refresh
+
+## 5. stretnutie
+
+### 29.10.2024 11:40-13:00
+
+Prítomní: PhD., Mgr. Tomáš Fabšič, Bc. Samuel Klement, Bc. Martin Vidlička, Bc. Zoltán Raffay, Bc. Matúš Petrovaj
+
+- Prezentovanie prototypu
+- Ukážka funkcionality
+- Odprezentovanie ďalších krokov
