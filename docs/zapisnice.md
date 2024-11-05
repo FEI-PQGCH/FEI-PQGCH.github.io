@@ -62,3 +62,15 @@ Prítomní: PhD., Mgr. Tomáš Fabšič, Bc. Samuel Klement, Bc. Martin Vidličk
 - Prezentovanie prototypu
 - Ukážka funkcionality
 - Odprezentovanie ďalších krokov
+
+## 6. stretnutie
+
+### 5.11.2024 11:40-13:00
+
+Prítomní: prof. Ing. Pavol Zajac, PhD., Mgr. Tomáš Fabšič, Ing. Ondrej Gallo, PhD., Bc. Samuel Klement, Bc. Martin Vidlička, Bc. Zoltán Raffay, Bc. Matúš Petrovaj, Bc. Viktor Malý
+
+- Vyjasnenie vytvárania kľúča medzi susedmi
+- Prezentovanie prototypu
+- Ukážka vytvorenie kľúča
+- Odprezentovanie ďalších krokov
+- Dokončenie prototypu do konca Novembra
