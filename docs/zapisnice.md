@@ -74,3 +74,14 @@ Prítomní: prof. Ing. Pavol Zajac, PhD., Mgr. Tomáš Fabšič, Ing. Ondrej Gal
 - Ukážka vytvorenie kľúča
 - Odprezentovanie ďalších krokov
 - Dokončenie prototypu do konca Novembra
+
+## 7. stretnutie
+
+### 19.11.2024 11:40-13:00
+
+Prítomní:  PhD., Mgr. Tomáš Fabšič, Ing. Ondrej Gallo, PhD., Ing. Tomáš Vavro, Ing. Tamara Tučková, PhD., Bc. Samuel Klement, Bc. Martin Vidlička, Bc. Zoltán Raffay, Bc. Matúš Petrovaj, Bc. Viktor Malý
+
+- Pokračovanie v implementácií
+- Pridanie serveru ako člena clusteru
+- Riešenie kľúčov od dodávateľa
+- Sprístupnenie repozitára
