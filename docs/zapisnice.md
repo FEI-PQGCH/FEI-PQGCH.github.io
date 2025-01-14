@@ -85,3 +85,16 @@ Prítomní:  PhD., Mgr. Tomáš Fabšič, Ing. Ondrej Gallo, PhD., Ing. Tomáš 
 - Pridanie serveru ako člena clusteru
 - Riešenie kľúčov od dodávateľa
 - Sprístupnenie repozitára
+
+
+## 8. stretnutie
+
+### 2.12.2024 11:40-13:00
+
+Prítomní:  PhD., Mgr. Tomáš Fabšič, Ing. Ondrej Gallo, PhD., Ing. Tomáš Vavro, Ing. Tamara Tučková, PhD., Bc. Samuel Klement, Bc. Martin Vidlička, Bc. Zoltán Raffay, Bc. Matúš Petrovaj, Bc. Viktor Malý
+
+- Prezentácia prototypu
+- Prezentovanie ďalšieho postupu
+- Konzultácia ohľadne dokumentácie
+- Posledné stretnutie zimného semestra
+
