@@ -98,3 +98,17 @@ Prítomní:  PhD., Mgr. Tomáš Fabšič, Ing. Ondrej Gallo, PhD., Ing. Tomáš 
 - Konzultácia ohľadne dokumentácie
 - Posledné stretnutie zimného semestra
 
+
+## LETNY SEMESTER ##
+
+## 9. stretnutie
+
+### 6.3.2025
+
+
+Prítomní:  PhD., Mgr. Tomáš Fabšič, Ing. Ondrej Gallo, PhD., Bc. Samuel Klement, Bc. Martin Vidlička, Bc. Zoltán Raffay, Bc. Matúš Petrovaj, Bc. Viktor Malý
+
+- prezentacia stavu
+- ujasnenie rozdielu medzi clankami(pid a iterovanie)
+- ukazanie dokumentacie
+- API na qkd
