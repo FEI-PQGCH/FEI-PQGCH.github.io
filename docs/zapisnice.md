@@ -105,10 +105,22 @@ Prítomní:  PhD., Mgr. Tomáš Fabšič, Ing. Ondrej Gallo, PhD., Ing. Tomáš 
 
 ### 6.3.2025
 
-
 Prítomní:  PhD., Mgr. Tomáš Fabšič, Ing. Ondrej Gallo, PhD., Bc. Samuel Klement, Bc. Martin Vidlička, Bc. Zoltán Raffay, Bc. Matúš Petrovaj, Bc. Viktor Malý
 
 - prezentacia stavu
 - ujasnenie rozdielu medzi clankami(pid a iterovanie)
 - ukazanie dokumentacie
 - API na qkd
+
+
+## 10. stretnutie
+
+### 3.4.2025
+
+Prítomní:  PhD., Mgr. Tomáš Fabšič, Ing. Ondrej Gallo, PhD., Bc. Samuel Klement, Bc. Martin Vidlička, Bc. Zoltán Raffay, Bc. Matúš Petrovaj, Bc. Viktor Malý
+
+- Komunikácia so SAV (p. Lacko) ohladne API
+- príprava na prvotné testovanie API
+- Server pre test účely
+- Api do doku a kredit pre SAV
+- Debata ohladne obhajoby a ukončenia
