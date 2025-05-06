@@ -124,3 +124,17 @@ Prítomní:  PhD., Mgr. Tomáš Fabšič, Ing. Ondrej Gallo, PhD., Bc. Samuel Kl
 - Server pre test účely
 - Api do doku a kredit pre SAV
 - Debata ohladne obhajoby a ukončenia
+
+
+## 11. stretnutie
+
+### 6.5.2025
+
+Prítomní:  prof. Ing. Pavol Zajac, PhD., Mgr. Tomáš Fabšič PhD., Ing. Ondrej Gallo, PhD., Bc. Samuel Klement, Bc. Martin Vidlička, Bc. Zoltán Raffay, Bc. Matúš Petrovaj, Bc. Viktor Malý
+
+- Prezentácia aktuálneho stavu
+- Rozprava malého protokolu
+- Doplnit slovník do doku
+- API kontaktovat SAV znova
+- Zmena verzií AES a Kyber
+- Príprava lightweight dokumentu na odovzdanie
